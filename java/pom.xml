@@ -14,9 +14,9 @@
 	<properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>		
-	<sonar.projectKey>oussamabadr_GildedRose</sonar.projectKey>
-	<sonar.organization>oussamabadr</sonar.organization>
-	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.projectKey>oussamabadr_CodingAssignments_Refactoring_Small</sonar.projectKey>
+		<sonar.organization>oussamabadr</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
 </project>
